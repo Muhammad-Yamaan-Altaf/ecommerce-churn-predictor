@@ -33,3 +33,6 @@ An end-to-end Machine Learning web application designed to predict whether an e-
    python src/ingest.py
    python src/clean.py
    python src/train.py
+5. Launch the Streamlit App: streamlit run src/app.py
+
+Developed as part of a professional Data Science & Machine Learning portfolio.
